@@ -7,7 +7,7 @@ struct
 void main()
 {
 	int i,ch;
-	char f[30]; clrscr();
+	char f[30];
 	dir.fcnt = 0;
 	printf("\nEnter name of directory -- ");
 	scanf("%s", dir.dname);
